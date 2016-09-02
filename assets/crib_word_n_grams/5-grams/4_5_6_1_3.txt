@@ -1,3 +1,0 @@
-Count from total of 16451820 word 5-grams
-8	THREE	MONTHS	BEFORE	I	WAS
-8	SOME	PEOPLE	THOUGHT	I	WAS
