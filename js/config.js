@@ -39,7 +39,7 @@ var C =
 		['firfumferenfe', 1]	// Section 5
 	],
 
-	"raw": "./data/liber-work",
+	"raw": "./data/liber",
 
 	"encoding": "utf8",
 
@@ -126,7 +126,7 @@ var C =
 			'PARABLE',
 			'TUNNEL', 'TUNNEL(I)NG'
 		],
-		"exclude": ['i', 'he', 'cat', 'dog']
+		"exclude": ['cat', 'dog']
 	}
 };
 
